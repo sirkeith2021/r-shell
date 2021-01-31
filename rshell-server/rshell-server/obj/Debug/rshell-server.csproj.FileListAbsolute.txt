@@ -1,0 +1,11 @@
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Debug\rshell-server.exe.config
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Debug\rshell-server.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Debug\rshell-server.pdb
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\obj\Debug\rshell-server.csprojResolveAssemblyReference.cache
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\obj\Debug\rshell-server.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\obj\Debug\rshell-server.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Debug\rshell-server.exe.config
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\obj\Debug\rshell-server.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\obj\Debug\rshell-server.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Debug\rshell-server.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Debug\rshell-server.pdb

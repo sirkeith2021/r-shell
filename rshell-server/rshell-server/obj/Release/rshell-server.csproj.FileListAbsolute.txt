@@ -1,0 +1,39 @@
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Release\rshell-server.exe.config
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Release\rshell-server.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\bin\Release\rshell-server.pdb
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\obj\Release\rshell-server.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell-server\obj\Release\rshell-server.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Release\rshell-server.exe.config
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\obj\Release\rshell-server.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\obj\Release\rshell-server.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Release\rshell-server.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\bin\Release\rshell-server.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell-server\rshell-server\obj\Release\rshell-server.csprojResolveAssemblyReference.cache
+E:\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.exe.config
+E:\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.exe
+E:\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.pdb
+E:\RShell 2.7\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.dll
+E:\RShell 2.7\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.xml
+E:\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.csproj.CopyComplete
+E:\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.exe
+E:\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.exe.config
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\bin\Release\rshell-server.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.dll
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.xml
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.csproj.CopyComplete
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell-server\rshell-server\obj\Release\rshell-server.pdb
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\bin\Release\rshell-server.exe.config
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\bin\Release\rshell-server.exe
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\bin\Release\rshell-server.pdb
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.dll
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\bin\Release\Newtonsoft.Json.xml
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\obj\Release\rshell-server.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\obj\Release\rshell-server.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\obj\Release\rshell-server.csproj.CopyComplete
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\obj\Release\rshell-server.exe
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell-server\rshell-server\obj\Release\rshell-server.pdb

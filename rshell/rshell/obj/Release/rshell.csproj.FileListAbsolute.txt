@@ -1,0 +1,26 @@
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\bin\Release\rshell.exe.config
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Release\rshell.exe.config
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Release\rshell.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Release\rshell.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Release\rshell.Properties.Resources.resources
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Release\rshell.csproj.GenerateResource.Cache
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Release\rshell.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Release\rshell.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Release\rshell.csprojResolveAssemblyReference.cache
+E:\RShell 2.7\rshell\rshell\bin\Release\rshell.exe.config
+E:\RShell 2.7\rshell\rshell\bin\Release\rshell.exe
+E:\RShell 2.7\rshell\rshell\bin\Release\rshell.pdb
+E:\RShell 2.7\rshell\rshell\obj\Release\rshell.csprojAssemblyReference.cache
+E:\RShell 2.7\rshell\rshell\obj\Release\rshell.Properties.Resources.resources
+E:\RShell 2.7\rshell\rshell\obj\Release\rshell.csproj.GenerateResource.cache
+E:\RShell 2.7\rshell\rshell\obj\Release\rshell.exe
+E:\RShell 2.7\rshell\rshell\obj\Release\rshell.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.Properties.Resources.resources
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.csproj.GenerateResource.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Release\rshell.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Release\rshell.exe.config
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Release\rshell.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Release\rshell.pdb

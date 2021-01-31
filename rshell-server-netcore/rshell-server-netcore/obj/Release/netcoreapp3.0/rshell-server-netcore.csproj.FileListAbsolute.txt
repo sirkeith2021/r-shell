@@ -1,0 +1,12 @@
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.exe
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.deps.json
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.runtimeconfig.json
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.runtimeconfig.dev.json
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.dll
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\rshell-server-netcore.pdb
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\obj\Release\netcoreapp3.0\rshell-server-netcore.AssemblyInfoInputs.cache
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\obj\Release\netcoreapp3.0\rshell-server-netcore.AssemblyInfo.cs
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\obj\Release\netcoreapp3.0\rshell-server-netcore.csproj.CopyComplete
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\obj\Release\netcoreapp3.0\rshell-server-netcore.dll
+E:\RShell 2.7\rshell-server-netcore\rshell-server-netcore\obj\Release\netcoreapp3.0\rshell-server-netcore.pdb

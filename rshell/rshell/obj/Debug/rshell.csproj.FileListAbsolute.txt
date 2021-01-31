@@ -1,0 +1,57 @@
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\bin\Debug\rshell.exe.config
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\bin\Debug\rshell.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\bin\Debug\rshell.pdb
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\obj\Debug\rshell.csprojResolveAssemblyReference.cache
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\obj\Debug\rshell.Properties.Resources.resources
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\obj\Debug\rshell.csproj.GenerateResource.Cache
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\obj\Debug\rshell.exe
+C:\Users\JQuery\AppData\Local\Temporary Projects\rshell\obj\Debug\rshell.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Debug\rshell.exe.config
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Debug\rshell.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Debug\rshell.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Debug\rshell.exe
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\bin\Debug\rshell.pdb
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Debug\rshell.Properties.Resources.resources
+C:\Users\JQuery\Documents\Visual Studio 2015\Projects\rshell\rshell\obj\Debug\rshell.csproj.GenerateResource.Cache
+E:\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe.config
+E:\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe
+E:\RShell 2.7\rshell\rshell\bin\Debug\rshell.pdb
+E:\RShell 2.7\rshell\rshell\obj\Debug\rshell.Properties.Resources.resources
+E:\RShell 2.7\rshell\rshell\obj\Debug\rshell.csproj.GenerateResource.cache
+E:\RShell 2.7\rshell\rshell\obj\Debug\rshell.exe
+E:\RShell 2.7\rshell\rshell\obj\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe.config
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\bin\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Debug\rshell.Properties.Resources.resources
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Debug\rshell.csproj.GenerateResource.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Debug\rshell.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\RShell 2.7\rshell\rshell\obj\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.Properties.Resources.resources
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.csproj.GenerateResource.cache
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\obj\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe.config
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\bin\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\projects\RShell 2.7\rshell\rshell\bin\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\bin\Debug\rshell.exe.config
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\bin\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\bin\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.Properties.Resources.resources
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.csproj.GenerateResource.cache
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.exe
+C:\Users\CryT0r\Desktop\projects\RShell\2.8\rshell\rshell\obj\Debug\rshell.pdb
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\rshell.csprojAssemblyReference.cache
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\rshell.csproj.GenerateResource.cache
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\rshell.csproj.CoreCompileInputs.cache
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\bin\Debug\CryingWolf.exe.config
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\bin\Debug\CryingWolf.exe
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\bin\Debug\CryingWolf.pdb
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\CryingWolf.Properties.Resources.resources
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\CryingWolf.exe
+C:\Users\CryT0r\Desktop\projects\CryingReaper\1.0\CryingReaper\rshell\obj\Debug\CryingWolf.pdb

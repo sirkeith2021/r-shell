@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\JQuery\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\JQuery\\.nuget\\packages"
+    ]
+  }
+}
